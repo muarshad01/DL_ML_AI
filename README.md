@@ -1,3 +1,7 @@
+* Bismillah hir Rahman nir Rahim
+
+***
+
 ## Deep Learning, Machine Learning, and Artificial Intelligence
 
 ### Books
