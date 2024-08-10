@@ -1,4 +1,4 @@
-# DL_ML_AI
+# Deep Learning, Machine Learning, and Artificial Intelligence
 
 ## Book
 
