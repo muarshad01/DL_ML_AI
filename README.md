@@ -36,3 +36,5 @@
 * [Lecture 20: Layer Normalization in the LLM Architecture](https://www.youtube.com/watch?v=G3W-LT79LSI)
 
 ***
+
+[**Transformers (how LLMs work) explained visually | DL5**] (https://www.youtube.com/watch?v=wjZofJX0v4M)
