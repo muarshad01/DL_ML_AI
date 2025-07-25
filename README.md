@@ -2,7 +2,7 @@
 
 ***
 
-# Deep Learning, Machine Learning, and Artificial Intelligence
+# Deep Learning, Machine Learning, and Artificial Intelligence Books
 
 #### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
@@ -12,7 +12,7 @@
 
 #### [Deep Learning with Python, 2nd edition by F. Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
-#### [Dive into Deep Learning - Interactive](online available: https://d2l.ai/)
+#### [Dive into Deep Learning - Interactive](https://d2l.ai/)
   
 ***
 
