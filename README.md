@@ -40,4 +40,6 @@
 
 ***
 
-[**Transformers (how LLMs work) explained visually | DL5**] (https://www.youtube.com/watch?v=wjZofJX0v4M)
+#### [Transformers (how LLMs work) explained visually | DL5] (https://www.youtube.com/watch?v=wjZofJX0v4M)
+
+***
