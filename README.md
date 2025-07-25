@@ -2,7 +2,7 @@
 
 ***
 
-# Deep Learning, Machine Learning, and Artificial Intelligence Books
+# DL, ML, and AI Books
 
 #### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
