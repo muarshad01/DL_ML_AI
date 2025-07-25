@@ -4,15 +4,15 @@
 
 # Deep Learning, Machine Learning, and Artificial Intelligence
 
-### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+#### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
-### [Deep Learning - Foundations and Concepts | Christopher M. Bishop, Hugh Bishop](https://link.springer.com/book/10.1007/978-3-031-45468-4)
+#### [Deep Learning - Foundations and Concepts | Christopher M. Bishop, Hugh Bishop](https://link.springer.com/book/10.1007/978-3-031-45468-4)
 
-### [The Principles of Deep Learning Theory](https://engineering.purdue.edu/DeepLearn/Resources/DeepLearningTheory.pdf)
+#### [The Principles of Deep Learning Theory](https://engineering.purdue.edu/DeepLearn/Resources/DeepLearningTheory.pdf)
 
-### [Deep Learning with Python, 2nd edition by F. Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition)
+#### [Deep Learning with Python, 2nd edition by F. Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
-### [Dive into Deep Learning - Interactive](online available: https://d2l.ai/)
+#### [Dive into Deep Learning - Interactive](online available: https://d2l.ai/)
   
 ***
 
