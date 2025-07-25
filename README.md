@@ -1,8 +1,4 @@
-* Bismillah hir Rahman nir Rahim
-
-***
-
-# DL, ML, and AI Books
+# DL, ML, and AI
 
 #### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
