@@ -1,4 +1,8 @@
-# DL, ML, and AI
+#### [A complete ML-DL-GenAI pathway for students and professionals | By MIT, Purdue PhDs](https://complete-pathway.vizuara.ai/)
+
+***
+
+## DL, ML, and AI
 
 #### [Deep Learning | An MIT Press book | Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
@@ -10,8 +14,4 @@
 
 #### [Dive into Deep Learning - Interactive](https://d2l.ai/)
   
-***
-
-#### [A complete ML-DL-GenAI pathway for students and professionals | By MIT, Purdue PhDs](https://complete-pathway.vizuara.ai/)
-
 ***
