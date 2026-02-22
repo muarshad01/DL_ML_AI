@@ -11,3 +11,7 @@
 #### [Dive into Deep Learning - Interactive](https://d2l.ai/)
   
 ***
+
+#### [A complete ML-DL-GenAI pathway for students and professionals | By MIT, Purdue PhDs](https://complete-pathway.vizuara.ai/)
+
+***
