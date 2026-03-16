@@ -1,5 +1,7 @@
 #### [A complete ML-DL-GenAI pathway for students and professionals | By MIT, Purdue PhDs](https://complete-pathway.vizuara.ai/)
 
+#### [ML-DL-GenAI Comprehensive Mastery Bundle](https://complete-pathway.vizuara.ai/)
+
 ***
 
 ## DL, ML, and AI
