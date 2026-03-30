@@ -17,3 +17,8 @@
 #### [Dive into Deep Learning - Interactive](https://d2l.ai/)
   
 ***
+
+## Jobs
+* [NTT DATA ALVista](https://nttdata-aivista.com/)(https://nttdata-aivista.com/company/#careers) - George Karypis
+
+*** 
