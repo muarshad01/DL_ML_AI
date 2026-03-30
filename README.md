@@ -19,6 +19,6 @@
 ***
 
 ## Jobs
-* [NTT DATA ALVista](https://nttdata-aivista.com/company/#careers) - George Karypis
+* [NTT DATA AIVista](https://nttdata-aivista.com/company/#careers) - George Karypis
 
 *** 
